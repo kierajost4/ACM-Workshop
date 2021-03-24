@@ -2,7 +2,7 @@
 
 The README.md file is the first thing that will appear when viewing the repository.
 
-## Assignment Instructions 
+## Activity Instructions 
 
 1. make a header with your name (ex. ## Kiera Jost)
 
