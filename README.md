@@ -1,7 +1,4 @@
-HELLO
-hi kiera
+# Welcome!!!
 
-#ketchup
-
-its me 
+The README.md file is the first thing that will appear when viewing the repository.
 
