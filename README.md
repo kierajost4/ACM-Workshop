@@ -4,7 +4,8 @@ The README.md file is the first thing that will appear when viewing the reposito
 
 ## Activity Instructions 
 
-1. make a header with your name (ex. ## Kiera Jost)
+1. make a header with your name (Use two pound signs for a level 2 heading)
+ex. ## Kiera Jost
 
 2. Answer the following icebreaker questions: 
 
