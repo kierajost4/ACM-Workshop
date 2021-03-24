@@ -1,4 +1,4 @@
-# Activity- Introduce Yourself! 
+# Activity- Get to Know Everyone!
 
 ## Kiera Jost 
 
